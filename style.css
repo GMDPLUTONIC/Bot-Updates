@@ -1,0 +1,23 @@
+
+body {
+    background: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.eclipse {
+    margin: 0px auto;
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.updates {
+    margin: 0px auto;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.updates button {
+    margin: 0px auto;
+    color: rgb(255, 255, 255);
+    background: #212121;
+}
